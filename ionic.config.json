@@ -1,0 +1,8 @@
+{
+  "name": "Na'vi Learning Adventure: Eywa's Path",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "984d11e9"
+}
